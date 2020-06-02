@@ -2,10 +2,7 @@
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.mlab as mlab
 
-import tensorflow as tf
 from tensorflow.contrib.layers import flatten
 
 from keras.layers.pooling import MaxPooling2D
@@ -68,7 +65,7 @@ for i in range(0,len(train2)):
 temp2 = np.asarray(train2)
 
 
-## load Testing data : potholes
+## load Testing data : females
 potholeTestImages = glob.glob("C:/Users/anant/Documents/GitHub/gender-classification/dataset/Validation/female/*.jpg")
 # nonPotholeTrainImages.extend(glob.glob("C:/Users/anant/Desktop/pothole-and-plain-rode-images/My Dataset/train/Plain/*.jpeg"))
 # nonPotholeTrainImages.extend(glob.glob("C:/Users/anant/Desktop/pothole-and-plain-rode-images/My Dataset/train/Plain/*.png"))
