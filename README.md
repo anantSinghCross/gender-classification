@@ -2,6 +2,16 @@
 
 Aim is to classify the gender of a person based on his/her photograph. This project assumes binary gender system for simplicity. The model was trained on my laptop's GPU (NVIDIA GTX 1650 4GB).
 
+
+## Contents Of This Readme
+
+1. [What's In The Repo](https://github.com/anantSinghCross/gender-classification/blob/master/README.md#whats-in-the-repo)
+2. [Check Your Libraries](https://github.com/anantSinghCross/gender-classification/blob/master/README.md#check-your-libraries)
+3. [Working of Files](https://github.com/anantSinghCross/gender-classification/blob/master/README.md#working-of-files)
+4. [Dataset](https://github.com/anantSinghCross/gender-classification/blob/master/README.md#dataset)
+5. [Result Snapshot](https://github.com/anantSinghCross/gender-classification/blob/master/README.md#result-snapshot)
+6. [Note](https://github.com/anantSinghCross/gender-classification/blob/master/README.md#note)
+
 ## What's In The Repo
 
 * *main.py* - This module is responsible for preparing the dataset and training the model.
@@ -16,7 +26,7 @@ Aim is to classify the gender of a person based on his/her photograph. This proj
 
 *Instructions on how to install these libraries can be found extensively on internet.*
 
-## Working of Files in *Real-time Files* Folder
+## Working of Files
 
 * *main.py* - This module’s main aim is to create, prepare and train the model. Internally, also it prepares the dataset which it loads from a specific location in the machine.
 Preparing the dataset includes:
