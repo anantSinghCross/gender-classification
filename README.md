@@ -28,7 +28,7 @@ Preparing the dataset includes:
 
 ## Dataset
 
-Dataset for training has been taken from *Kaggle*. Thanks to [Ashutosh Chauhan](https://www.kaggle.com/cashutosh) for the dataset. You can find it [here](https://www.kaggle.com/cashutosh/gender-classification-dataset).
+Dataset for training has been taken from *Kaggle*. Thanks to [Ashutosh Chauhan](https://www.kaggle.com/cashutosh) for the dataset. You can find it [here(270MB)](https://www.kaggle.com/cashutosh/gender-classification-dataset).
 
 ## Result Snapshot
 
