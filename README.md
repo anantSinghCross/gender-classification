@@ -36,4 +36,6 @@ Dataset for training has been taken from *Kaggle*. Thanks to [Ashutosh Chauhan](
 
 ***
 
+### Note
+
 *More information to be added later*
